@@ -1,4 +1,4 @@
-                                                         Image Labels Generator Using AWS Rekognition
+                                      Image Labels Generator Using AWS Rekognition
 
 To create an image labeling system using AWS services, we can use AWS Rekognition. AWS rekognition is a powerful service to find objects, people, text, scenes in images and videos using ML. Below are the general steps to set up an image labeling system:
 1. Set Up AWS Rekognition:
